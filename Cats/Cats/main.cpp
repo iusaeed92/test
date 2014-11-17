@@ -10,12 +10,26 @@
 
 using namespace std;
 
+void foo() {
+    cout << "hello" << endl;
+}
+
 int main() {
     // insert code here...
 
     
     cout << "hello" << endl;
     
+    
+    //adding a comment;
+    int s;
+    
+    char c;
+    
+    
+    foo();
+
+
     
     
     return 0;
